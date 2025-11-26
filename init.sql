@@ -1,0 +1,1 @@
+CREATE DATABASE qna_db;
